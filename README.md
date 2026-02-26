@@ -1,4 +1,4 @@
-# <img alt="go icon" width="70px" style="position: relative; top: 20;" src="images/icon.png" />OOP Concepts: A Practical Guide
+# OOP Concepts in Go: A Practical Guide
 
 This repository demonstrates how Go implements Object-Oriented principles without using traditional classes.
 
